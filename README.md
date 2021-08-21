@@ -1,6 +1,15 @@
 # rs_blog
 thoughts and musings
 
+## __2021-08-21__ ##
+I keep storing plaintext notes on my phone - I should just put them here so that I don't have to transcribe. Transcription gives me flashbacks of middle school, brusing my fingers learning to touch type random text in a page holder next to the manual typerwriter.  Exercise for the reader: am I that old, or was my school just that far behind the times.
+
+Some datasets I would like to work with:
+- http://earthdata.nasa.gov - various NASA datasets about home
+- http://judgeforyouselves.com - at some point they'll publish all the documents on that family (you know the one)
+- http://rawg.io/apidocs - because I can't find video games that I like of late
+- https://cis.org/Immigration-Statistics-Data-Portal - took some time to find one that appeared to be 'independent'
+
 ## __2021-08-14__ ##
 ### Work Stuff
 * large correlation analysis of CPU and volume metrics

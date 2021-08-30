@@ -77,9 +77,11 @@ posdf2.sample(10)
 ``` 
 
 ## Results
+Examining the text of 51 unique articles yielded 12397 words, 4568 of which were unique. The most frequent word was 'imagen' (image) that appeared 84 times, país (country) came second with 73 occurrences, and año (year) was third with 71. If you want to tune you vocabulary to recent spanish news the top 50 words you should learn are: 'imagen', 'país', 'año', 'persona', 'mundo', 'recibir', 'querer', 'pasar', 'vida', 'hora', 'llegar', 'isla', 'humano', 'gobierno', 'explicar', 'encontrar', 'problema', 'historia', 'contenido', 'libro', 'talibán', 'médico', 'descarga', 'tipo', 'deber', 'cuerpo', 'internet', 'puerto', 'luz', 'interesar', 'activa él', 'alimento', 'notificación', 'perdertir', 'versión', 'app', 'mujer', 'idea', 'parecer', 'hombre', 'forma', 'siglo', 'dejar', 'mirar', 'contar', 'seguir', 'permitir', 'grupo', 'señalar', 'tratar'.
 
 ## other things I could do
 * ignore words that generally look like their english counterparts – if we could intuitively discern the meaning of the word it need not be on our vocab list for study.
 * Compare text corpus between sites – maybe BBC Mundo tends to use easier words than the local newspaper in panama
 * run a classification analysis on the news articles – can I accurately identify articles that will appear in sub-topic sites linked at the top of the page?
 * Test the speed of the efficiency SpaCy module vs the accuracy one
+* remove quoted phrases – these could be in another language (e.g. song titles, book titles, publications, etc)

@@ -19,8 +19,9 @@ for x in s.find_all('script'):
 
 If div tags are empty we can remove them outright. An alternative to decompose is the extract function, which removes the tags but returns the contents.
 ```python
-if len(d.get_text(strip=True)) ==0:
-    d.extract()
+for d in e.find_all('div'):
+    if len(d.get_text(strip=True)) ==0:
+        d.extract()
 ```
 We need to be more careful if the div tags contain text because we might need it later.  In this case we can use replace_with_children so that only the tag itself is deleted.
 ```python

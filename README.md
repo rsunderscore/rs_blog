@@ -1,5 +1,10 @@
 # rs_blog
 thoughts and musings
+##__2021-09-11__##
+Most of my time lately has been devoted to handling my flooded basement so have been doing much data science.  I have been reading the twitters and these links look compelling.
+- [255 data science projects](https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb)
+- [150 data science projects]()
+- [common data science interview questions](https://towardsdatascience.com/10-highly-probable-data-scientist-interview-questions-fd83f7414760)
 
 ## __2021-08-21__ ##
 I keep storing plaintext notes on my phone - I should just put them here so that I don't have to transcribe. Transcription gives me flashbacks of middle school, bruising my fingers learning to touch type random text in a page holder next to the manual typewriter.  Exercise for the reader: am I that old, or was my school just that far behind the times.

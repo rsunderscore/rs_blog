@@ -3,7 +3,7 @@ thoughts and musings
 ##__2021-09-11__##
 Most of my time lately has been devoted to handling my flooded basement so have been doing much data science.  I have been reading the twitters and these links look compelling.
 - [255 data science projects](https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb)
-- [150 data science projects]()
+- [150 data science projects](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
 - [common data science interview questions](https://towardsdatascience.com/10-highly-probable-data-scientist-interview-questions-fd83f7414760)
 
 ## __2021-08-21__ ##

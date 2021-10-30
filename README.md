@@ -1,5 +1,19 @@
 # rs_blog
 thoughts and musings
+## __2021-10-30__ ##
+* got sick
+* work is busy
+* side projects (woodworking)
+
+useful utility for splitting up an iterable into smaller lists - there are many way to do this but I settled on this one because it doesn't use any additional modules
+```python
+def splititer(aniter, maxlen):
+    cuts = [x for x in range(0, len(aniter),maxlen)] + [len(aniter)]
+    cuts = list(range(0, len(aniter),maxlen)) + [len(aniter)]
+    newlist = [aniter[cuts[i]:cuts[i+1]] for i in range(len(cuts)-1)]
+    return newlist
+```
+
 ## __2021-09-12__ ##
 Reading through more of the electroncis books today.
 - Adafruit circuit playground looks like fun - especially given python support

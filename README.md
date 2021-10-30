@@ -9,7 +9,6 @@ useful utility for splitting up an iterable into smaller lists - there are many 
 ```python
 def splititer(aniter, maxlen):
     cuts = [x for x in range(0, len(aniter),maxlen)] + [len(aniter)]
-    cuts = list(range(0, len(aniter),maxlen)) + [len(aniter)]
     newlist = [aniter[cuts[i]:cuts[i+1]] for i in range(len(cuts)-1)]
     return newlist
 ```

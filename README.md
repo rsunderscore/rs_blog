@@ -1,5 +1,8 @@
 # rs_blog
 thoughts and musings
+## __2021-11-05__ ##
+Work politics mystify me.  Specifically why would someone go to the trouble to attempt to make someone else look bad, directing attention away from themselves. There have been several people that I have worked with that I disliked but my goal was always to minimize my interactions with them, not to find ways to make them look bad or get them in trouble.  Often I find my coworkers try to get ahead by saying I'm unresponsive or don't communicate my status, but the evidence for these claims is not there.  I keep my status up to date in JIRA, I frequently send email updates; so on paper there are no issues.  Often these indiduals are trying to delegate work that is not a high priority for me and so drops to the bottom of my queue.  I love helping people, but I need to put out the fires first.  
+
 ## __2021-11-01__ ##
 Spent some time reading through the documentation for more-iterutils, which solves all problems everywhere, but mostly the one I mentioned last week.  Chunked is the method they use to split a list into sublists and it does exactly what I wanted.  more-iterutils is not part of the standard library, unlike iterutils; so it's not quite as readily available. It has a plethora of other useful tools that certainly make it worth it.  'Convolve' was one that stumped me for a while.  I am familiar with converolutional neural networks and how they process images, but the linear convolution was foreign to me.  After consulting several math-oriented sites I was able to reproduce the output in a spreadsheet which gave me some joy.
 

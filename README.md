@@ -1,5 +1,18 @@
 # rs_blog
 thoughts and musings
+## __2021-11-11__ ##
+Possible project:
+ * document similarity using [gensim](https://pypi.org/project/gensim/)
+ * examine job postings and compare simlarity to each other
+    * maybe do some usupervised classification or clustering
+    * use tf/idf or cosine similarity
+    * word2vec or doc2vec might be other options
+    * numpy or Spacy for the NLP parts?
+ * compare similarity to resume
+ * parse skill requirements out of a job posting
+
+It would be nice to pull a lot of job postings to use as the corpus for the model.  Indeed has some sparse API documentation.  Most of their documentation is focused on people creating web-apps where they would allow a visiting usering to authenticate to their Indeed account using Oauth tokens.  In my case, I just want to pull a lot of data for myself, not act on behalf of other users.  (I ran into this same problem when I tried to research API calls for LinkedIn.)  There was a nice [blog](https://medium.com/@alberto_moura/build-a-jobs-database-using-indeeds-api-8f95316be842) on medium.com that talks about pulling job search results from Indeed API, and mentions that a publisher ID is required.  The publisher documentation is even more sparse and the difficulty in finding it from the indeed main site made me suspicious.  In the end I just used very generic credentials so we'll see if that gets a successful review.
+
 ## __2021-11-05__ ##
 Work politics mystify me.  Specifically why would someone go to the trouble to attempt to make someone else look bad, directing attention away from themselves. There have been several people that I have worked with that I disliked but my goal was always to minimize my interactions with them, not to find ways to make them look bad or get them in trouble.  Often I find my coworkers try to get ahead by saying I'm unresponsive or don't communicate my status, but the evidence for these claims is not there.  I keep my status up to date in JIRA, I frequently send email updates; so on paper there are no issues.  Often these individuals are trying to delegate work that is not a high priority for me and so drops to the bottom of my queue.  I love helping people, but I need to put out the fires first.  
 

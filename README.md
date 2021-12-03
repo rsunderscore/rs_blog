@@ -1,5 +1,12 @@
 # rs_blog
 thoughts and musings
+## __2021-12-02__ ##
+Work politics again.  This has only been an issue since we got the new manager.  Im at the brink.  I tried an interesting experiment where I leave-streamed what I was working on to my team and let them jump in/out as desired.  Learned some intersting new things in the process.   Is this what pair-coding is like? sign me up.
+
+Working on the document classificaiton/similarity project - I decided it would be wise to look at a provided example prior to applying to my specific dataset.  Apparently my version of sklearn is out of date so example code required some tweaking.  Pipeline was as expected, but there was no stemming/lemmas; maybe that is done inherently.  
+
+
+
 ## __2021-11-11__ ##
 Possible project:
  * document similarity using [gensim](https://pypi.org/project/gensim/)

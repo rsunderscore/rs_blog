@@ -1,6 +1,9 @@
 # rs_blog
 thoughts and musings
-##__2021-12-14__ ##
+
+
+## __2021-12-14__ ##
+
 checking latex rendering in github markdown
 
 $2\times10=20 \pi \alpha$

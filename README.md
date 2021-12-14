@@ -1,5 +1,12 @@
 # rs_blog
 thoughts and musings
+##__2021-12-14__ ##
+checking latex rendering in github markdown
+
+$2\times10=20 \pi \alpha$
+
+nope
+
 ## __2021-12-02__ ##
 Work politics again.  This has only been an issue since we got the new manager.  Im at the brink.  I tried an interesting experiment where I leave-streamed what I was working on to my team and let them jump in/out as desired.  Learned some intersting new things in the process.   Is this what pair-coding is like? sign me up.
 

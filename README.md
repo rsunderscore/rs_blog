@@ -2,6 +2,13 @@
 thoughts and musings
 
 
+## __2024-02-06__ ##
+
+- Mackem
+- Double Dragon Gaiden
+- covid
+- vaulting change control
+
 ## __2021-12-14__ ##
 
 checking latex rendering in github markdown

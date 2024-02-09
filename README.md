@@ -1,6 +1,13 @@
 # rs_blog
 thoughts and musings
+## __2024-02-08__ ##
 
+- gitlab
+- obsidian backup to github
+- bulk job attribute lookup
+- loki/true detective night country/rick&morty
+- packaging
+- RSU
 
 ## __2024-02-06__ ##
 
